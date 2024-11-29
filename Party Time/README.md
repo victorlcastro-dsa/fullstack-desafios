@@ -13,3 +13,7 @@ Party Time é um projeto desenvolvido utilizando o stack MERN (MongoDB, Express.
 
 - Criação, edição e exclusão de eventos.
 - Visualização de detalhes dos eventos.
+
+## Uso
+
+- Necessário Trocar MONGO_DB_URL em conn.js para a sua url de conexão do Mongo DB
