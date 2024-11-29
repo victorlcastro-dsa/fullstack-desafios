@@ -1,21 +1,21 @@
-# Contact Manager App
+# Aplicativo Gerenciador de Contatos
 
-This project was developed to explore the fundamental concepts of a full stack application. Below is an overview of the technologies used:
+Este projeto foi desenvolvido para explorar os conceitos fundamentais de uma aplicação full stack. Abaixo está uma visão geral das tecnologias utilizadas:
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 ### Frontend
-- **React:** A powerful JavaScript library for building dynamic and responsive user interfaces.
-- **Vite:** A modern build tool that provides a fast and optimized development environment.
-- **HTML:** An essential markup language for structuring the content of the application.
-- **CSS:** A styling language used to apply design and layout to the application.
+- **React:** Uma poderosa biblioteca para construir interfaces de usuário dinâmicas e responsivas.
+- **Vite:** Uma ferramenta de build moderna que fornece um ambiente de desenvolvimento rápido e otimizado.
+- **HTML:** Uma linguagem de marcação essencial para estruturar o conteúdo da aplicação.
+- **CSS:** Uma linguagem de estilo usada para aplicar design e layout à aplicação.
 
 ### Backend
-- **Python:** A versatile programming language widely used on the server side.
+- **Python:** Uma linguagem de programação versátil amplamente utilizada no lado do servidor.
 
 ### API
-- **Flask:** A lightweight and flexible framework for developing REST APIs, facilitating communication between the frontend and backend.
+- **Flask:** Um framework leve e flexível para desenvolver APIs REST, facilitando a comunicação entre o frontend e o backend.
 
-## Contributions
+## Contribuições
 
-Contributions are welcome! If you'd like to collaborate, feel free to open an issue or submit a pull request.
+Contribuições são bem-vindas! Se você deseja colaborar, sinta-se à vontade para abrir uma issue ou enviar um pull request.
